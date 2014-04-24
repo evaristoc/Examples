@@ -9,3 +9,5 @@ Techniques:
 2) Similarity functions
 
 (The data and the code are currently under revision to make them less customised to my personal needs)
+
+For information about this code please contact me at varikviatyahoodotcom 
